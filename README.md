@@ -1,4 +1,5 @@
-# CARTO_Tests https://gist.github.com/jorgesancha/2a8027e5a89a2ea1693d63a45afdd8b6
+# CARTO_Test
+https://gist.github.com/jorgesancha/2a8027e5a89a2ea1693d63a45afdd8b6
 
 What follows is a technical test for this job offer at CARTO: https://boards.greenhouse.io/cartodb/jobs/705852#.WSvORxOGPUI
 
